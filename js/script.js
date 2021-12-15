@@ -6,7 +6,7 @@ const topics2 = book[0].querySelectorAll('li');
 const topics5 = book[5].querySelectorAll('li');
 const topics6 = book[2].querySelectorAll('li');
 const topicForBook6 = 'Глава 8: За пределами ES6';
-const innerText = h2Book3.textContent;
+
 
 document.body.style.backgroundImage = "url('image/you-dont-know-js.jpg')";
 book[0].before(book[1]);
